@@ -1,2 +1,2 @@
-# GIS-In-Python-
+# GIS-In-Python
 Automating GIS Processes  In Python
