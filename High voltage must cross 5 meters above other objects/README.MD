@@ -1,2 +1,2 @@
 # Tags 
-##Exterior and Interior Polygons ##Vertical Vectors 
+#Exterior and Interior Polygons #Vertical Vectors 
