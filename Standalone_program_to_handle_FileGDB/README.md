@@ -2,6 +2,8 @@
 
 This Python script implements a graphical user interface (GUI) using Tkinter to execute a data pipeline on GeoDataFrames. The script allows users to browse for an input file containing GeoDataFrames, specify an output file, and then execute a series of data processing steps on the GeoDataFrames. The processed GeoDataFrames are then saved to the specified output file.
 
+![Screenshot](https://github.com/RuneTheander/GIS-In-Python/raw/main/Standalone_program_to_handle_FileGDB/Displayfil.PNG)
+
 ## Dependencies
 
 The script requires the following Python libraries to be installed:
